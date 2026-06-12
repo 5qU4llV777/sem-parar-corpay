@@ -14,4 +14,4 @@ node index.js//roda javascript com o nome "index.js"
 
 node --watch index.js//fica verificando setem alteração para atualizar sem ter que rodar o commando toda hora 
 
-[comandos](docs\arquivo_comandos.PNG)
+[comandos](https://github.com/5qU4llV777/sem-parar-corpay-javascript/blob/main/docs/arquivo_comandos.PNG)
