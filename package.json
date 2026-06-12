@@ -1,13 +1,13 @@
 {
-  "name": "src",
+  "name": "projeto-dio",
   "version": "1.0.0",
-  "description": "",
+  "description": "meu primeiro projeto sem parar corpay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Claudio Nogueira",
   "license": "ISC",
   "type": "commonjs"
 }
